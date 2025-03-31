@@ -17,10 +17,10 @@ export default function FolioCard({
   about,
   stack,
 }: {
-  img: string;
+  img?: string;
   title: string;
   gitLink?: string;
-  liveLink: string;
+  liveLink?: string;
   about: string;
   stack: string[];
 }) {
