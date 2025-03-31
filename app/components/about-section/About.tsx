@@ -35,7 +35,7 @@ export default function About() {
           <AnimatedBody className="leading-[34px] md:leading-[39px]">
             My passion lies in creating <span className="font-bold">robust business solutions</span> that{" "}
             <span className="font-bold">drive growth</span> and{" "}
-            <span className="font-bold">enhance user experience</span>. Whether it's a{" "}
+            <span className="font-bold">enhance user experience</span>. Whether it&apos;s a{" "}
             <span className="font-bold">high-performance web application</span> or{" "}
             <span className="font-bold">scalable backend services</span>, I specialize in building{" "}
             <span className="font-bold">end-to-end solutions</span> that make an impact.
