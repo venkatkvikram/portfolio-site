@@ -46,6 +46,12 @@ export default function MobileMenu({
         >
           Contact
         </Link>
+<Link
+              href={"https://drive.google.com/file/d/1kvYD6PDUh3hUnG5JyEsMc34dd7skGLCt/view?usp=sharing"}
+              // className={`${sectionInView === "contact" && "text-white"} `}
+            >
+              Resume
+            </Link>
       </ul>
 
       <div className="flex flex-col gap-3 z-20 items-center justify-center">
