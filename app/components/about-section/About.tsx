@@ -49,12 +49,9 @@ export default function About() {
           <AnimatedBody className="inline leading-[34px] md:leading-[39px]">
             Each challenge is unique, and I ensure that I learn and grow through each one. I aim to{" "}
             <span className="font-bold">deliver efficient, scalable, and maintainable solutions</span>. Wanna learn
-            more? Here&apos;s             <Link
-              className="underline"
-              href={"https://drive.google.com/file/d/1kvYD6PDUh3hUnG5JyEsMc34dd7skGLCt/view?usp=sharing"}
-            >
-              MY RESUME
-            </Link>
+            more? <Link className="underline" href={"https://drive.google.com/file/d/1kvYD6PDUh3hUnG5JyEsMc34dd7skGLCt/view?usp=sharing"}>
+  HERE&apos;S MY RESUME
+</Link>
             .
           </AnimatedBody>
         </div>
