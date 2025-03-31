@@ -25,7 +25,7 @@ const TimelineData = [
   {
     companyImg: "/softveer.png",
     jobTitle: "Jr. Full Stack Engineer",
-    company: "Softveer Technologied",
+    company: "Softveer Technologies",
     jobType: "Full time",
     duration: "Apr 2023 - Aug. 2023",
     stuffIDid: [
